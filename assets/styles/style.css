@@ -1,0 +1,103 @@
+           a {
+               text-decoration: none;
+               color: white;
+           }
+           
+           header {
+               position: fixed;
+               width: 100%;
+           }
+           
+           #Slider {
+               background-image: url(https://templates.envytheme.com/bitr/default/assets/images/banner/banner-bg-3.jpg)
+           }
+           
+           .login {
+               font-size: 16px;
+               transition: 1s;
+           }
+           
+           .navbar-box .login:hover {
+               color: white;
+               border: 3px transparent solid;
+               border-radius: 13px;
+               background-color: rgb(230, 192, 23);
+               padding: 12px 30px;
+           }
+           
+           .register {
+               color: white;
+               border: 3px transparent solid;
+               border-radius: 5px;
+               background-color: rgb(199, 125, 29);
+               padding: 12px 40px;
+               transition: 1s;
+               font-size: 20px;
+           }
+           
+           .register:hover {
+               background-color: rgb(202, 190, 20);
+               color: white;
+           }
+           
+           .navbar-box a {
+               margin: 0 25px;
+           }
+           
+           #Slider {
+               height: 100vh;
+           }
+           
+           .box-mine {
+               width: 100%;
+               padding: 8rem 0;
+           }
+           
+           .img-box {
+               width: 48%;
+           }
+           
+           .img-box img {
+               width: 100%;
+           }
+           
+           .button1 {
+               padding: 10px 25px;
+               border: 3px solid none;
+               border-radius: 10px;
+               background-color: orange;
+           }
+           
+           .button2 {
+               padding: 10px 0px;
+               border: 3px solid none;
+               border-radius: 10px;
+               background-color: red;
+           }
+           
+           .button {
+               padding: 0 30px;
+           }
+           
+           .left,
+           .right {
+               width: 48%;
+           }
+           
+           .left img,
+           .right img {
+               width: 100%;
+           }
+           
+           .box-percent {
+               background-color: rgb(63, 45, 45);
+               color: whitesmoke;
+           }
+           
+           .box-percent .top h1 {
+               border-left: 3px solid orange
+           }
+           
+           #End .right {
+               padding-top: 10rem;
+           }
